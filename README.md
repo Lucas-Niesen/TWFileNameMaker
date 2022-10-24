@@ -1,36 +1,32 @@
 <div align="center">
   <h1> TWFileNameMaker </h1>
   <i> Dit programma maakt de bestandsnaam voor TW.</i>
-    <div align="center">
-      ![image](https://user-images.githubusercontent.com/46261961/197585901-159987d3-2c09-4412-866e-ec472661c563.png)
-    </div>
 </div>
 
-## Docs
 
-You can read the docs on this Git's Wiki, or [here](https://ms7m.github.io/notify-py/)
+## Documentatie
 
-## Supported Platforms.
+Bij het opstarten van het programma zal er op `%localappdata%` eventueel een map `LucasNiesen` worden aangemaakt.<br>Hier in word een map `TWFileNameMaker` aangemaakt met 2 bestanden een `png` file en een `txt` file `last_position.txt`
 
-- Windows 10/11
-- macOS 10 >=10.10
-- Linux (libnotify)
 
-No dependencies are required other than loguru & jeepney (Only for linux/DBUS).
+## Ondersteund platform.
 
----
+- Windows 10
+- Windows 11
 
-## Install
 
-```
-pip install notify-py
-```
+## Installatie
 
----
 
-## Usage
+Door het open van het programma zullen de nodige bestanden afgehaald worden dit kan enkele seconden duren.
+> dit is één maals tenzei de map %appdatalocal%\LucasNiesen\TWFileNameMaker weg is of er bestanden ontbreken.<br>(Deze zullen automatisch terug worden afgehaald.)
 
-**Send Simple Notification**
+Hierna opent het programma en kan u het gebruiken.
+
+
+## Gebruik
+
+**Als niet alles is ingevuld**
 
 ```python
 from notifypy import Notify

@@ -9,7 +9,7 @@
 Bij het opstarten van het programma zal er op `%localappdata%` eventueel een map `LucasNiesen` worden aangemaakt.<br>Hier in word een map `TWFileNameMaker` aangemaakt met 2 bestanden een `png` file en een `txt` file `last_position.txt`
 
 
-## Ondersteund platform.
+## Platformen.
 
 - Windows 10
 - Windows 11
@@ -19,7 +19,7 @@ Bij het opstarten van het programma zal er op `%localappdata%` eventueel een map
 
 
 Door het open van het programma zullen de nodige bestanden afgehaald worden dit kan enkele seconden duren.
-> dit is één maals tenzei de map %appdatalocal%\LucasNiesen\TWFileNameMaker weg is of er bestanden ontbreken.<br>(Deze zullen automatisch terug worden afgehaald.)
+> Dit is één maals tenzei de map %appdatalocal%\LucasNiesen\TWFileNameMaker weg is of er bestanden ontbreken.<br>(Deze zullen automatisch terug worden afgehaald.)
 
 Hierna opent het programma en kan u het gebruiken.
 

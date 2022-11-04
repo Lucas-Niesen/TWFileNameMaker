@@ -24,7 +24,7 @@ Hierna opent het programma en kan u het gebruiken.
 
 
 ## Gebruik
-
+Als u  het programma sluit dan zal het de volgende keer bij het opstarten openen op de locatie waar u het heeft gesloten
 Als niet alles is ingevuld zal u deze melding krijgen.<br>
 <div align="center"><img src="https://user-images.githubusercontent.com/46261961/198821824-5a012224-9c75-4eaf-bb15-b7a748db136c.png"></div>
 
